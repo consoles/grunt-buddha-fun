@@ -1,0 +1,25 @@
+{
+  "name": "grunt-buddha-fun",
+  "version": "0.0.1",
+  "description": "佛祖保佑，永无bug",
+  "repository": "https://github.com/materliu/grunt-buddha.git",
+  "author": {
+    "name": "consoles",
+    "email": "1362955042@qq.com",
+    "url": "https://consoles.ren"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
