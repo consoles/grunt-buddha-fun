@@ -1,8 +1,8 @@
 {
   "name": "grunt-buddha-fun",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "佛祖保佑，永无bug",
-  "repository": "https://github.com/materliu/grunt-buddha.git",
+  "repository": "https://github.com/consoles/grunt-buddha-fun.git",
   "author": {
     "name": "consoles",
     "email": "1362955042@qq.com",
